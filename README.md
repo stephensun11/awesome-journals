@@ -1,0 +1,2 @@
+# awesome-journals
+some journals
